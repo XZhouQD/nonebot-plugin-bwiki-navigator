@@ -17,7 +17,9 @@ __plugin_meta__ = PluginMetadata(
 {default_start}{cmd_str} bwiki子站域名 页面名(可选)
 例如：{default_start}{cmd_str} clover 凯瑟琳
 {default_start}{cmd_str} clover''',
-    extra={'version': '0.1.0'}
+    type='application',
+    homepage='https://github.com/xzhouqd/nonebot-plugin-bwiki-navigator',
+    extra={'version': '0.2.0'}
 )
 
 from .handler import bwiki

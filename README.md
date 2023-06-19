@@ -12,13 +12,13 @@
 <img src="https://img.shields.io/badge/python-^3.8-blue?style=for-the-badge" alt="python">
 <br />
 <img src="https://img.shields.io/badge/tested_python-3.10.4-blue?style=for-the-badge" alt="python">
-<img src="https://img.shields.io/static/v1?label=tested+env&message=go-cqhttp+1.0.0-rc3&color=blue&style=for-the-badge" alt="python">
+<img src="https://img.shields.io/static/v1?label=tested+env&message=go-cqhttp+1.0.0&color=blue&style=for-the-badge" alt="python">
 <br />
 <a href="https://github.com/botuniverse/onebot/blob/master/README.md">
     <img src="https://img.shields.io/badge/Onebot-v11-brightgreen?style=for-the-badge" alt="onebot">
 </a>
 <a href="https://github.com/nonebot/nonebot2">
-    <img src="https://img.shields.io/static/v1?label=Nonebot&message=^2.0.0%2Dbeta.4&color=red&style=for-the-badge" alt="nonebot">
+    <img src="https://img.shields.io/static/v1?label=Nonebot&message=^2.0.0&color=red&style=for-the-badge" alt="nonebot">
 </a>
 <a href="https://pypi.org/project/nonebot-adapter-cqhttp/">
     <img src="https://img.shields.io/static/v1?label=Nonebot-adapters-onebot&message=^2.0.0%2Dbeta.1&color=red&style=for-the-badge" alt="nonebot-adapters-cqhttp">

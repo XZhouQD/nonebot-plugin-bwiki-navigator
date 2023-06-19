@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nonebot-plugin-bwiki-navigator"
-version = "0.1.0"
+version = "0.2.0"
 description = "A nonebot2 plugin version of bwiki official bot"
 authors = ["XZhouQD <X.Zhou.QD@hotmail.com>"]
 license = "AGPL v3"
@@ -13,9 +13,9 @@ repository = "https://github.com/XZhouQD/nonebot-plugin-bwiki-navigator"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-nonebot2 = "^2.0.0-beta.4"
+nonebot2 = "^2.0.0"
 nonebot-adapter-onebot = "^2.0.0-beta.1"
-httpx = { version = "^0.20.0", extras = ["http2"] }
+httpx = { version = ">=0.20.0,<1.0.0", extras = ["http2"] }
 
 [tool.poetry.dev-dependencies]
 
